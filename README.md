@@ -1,1 +1,2 @@
-## 기상 예보 구현 중 아직 꾸미기 미완성
+## Web서비스
+https://kyunggwan.github.io/Project6_Weather/
