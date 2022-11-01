@@ -41,7 +41,7 @@ h1 {
   align-items: center;
   justify-content: center;
   width: 100vw;
-  font-size: 5px;
+  font-size: 6px;
   margin-top: 15px;
 }
 
@@ -78,7 +78,8 @@ button:hover {
   margin: auto;
   margin-top: 20px;
   padding: 20px; 
-  width : 500px;
+  width : 350px;
+ 
 }
 
 .spp1, .spp2{
@@ -87,14 +88,14 @@ button:hover {
 
 .spp1 {
   width: 50%;
- font-size: 4vmin;
+ font-size: 15px;
  text-align: right;
  padding-right: 10px;
 }
 
 .spp2 {
   text-align: left;
-  font-size: 5vmin;
+  font-size: 17px;
   color:#E39E22;
   padding-left: 10px;
 }
@@ -107,7 +108,7 @@ button:hover {
   align-items: center;
 }
 .dayul{
-  width: 500px;  
+  width: 300px;  
   list-style-type: none;
   border: #1890ff solid 3px;
   border-radius: 10px;
@@ -123,13 +124,13 @@ button:hover {
 .sp1 {
   text-align: right;
   width: 50%;
-  padding-right: 3vw;
-  font-size: 4vmin;
+  padding-right: 1.5vw;
+  font-size: 15px;
 }
 
 .sp2 {
   text-align: left;
-  font-size: 5vmin;
+  font-size: 14px;
   color:#E39E22;
 }   
 
